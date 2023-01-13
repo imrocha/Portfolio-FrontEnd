@@ -1,0 +1,106 @@
+html, body{
+    height:100%;
+    margin:0;
+    display: flex;
+    flex-direction: column;
+
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    font-size: 1.25vw;
+    margin-top: 1vw;
+}
+
+/* Nav Bar */
+
+nav{
+    font-size: 70% ;
+}
+
+#logos{
+    align-content: left;
+}
+
+#redes{
+    display: inline-flex;
+    justify-content:space-around;
+}
+
+/* Cuerpo */
+.alto {
+    height: 100vh;
+    width: auto;
+}
+
+.seccion-uno{
+    color: white;    
+    background-color: black;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.fondo {
+    height: 100vh;
+    width: auto;
+}
+
+.margen-uno {
+    margin-left: 10vw;
+
+}
+
+
+
+.fotoperfil {
+    justify-content: center;
+    margin-left: 10vw;
+}
+
+
+h1{
+    font-size: 2.8vw;
+}
+
+/*Experiencia Laboral*/
+
+.seccion-dos{
+    color: black;
+}
+
+.margen-dos{
+    margin-top: 10vw;
+    margin-left: 3vw;
+}
+
+
+.fototitulo {
+    display: grid;
+    align-items: center;
+    margin-left: 2vw;
+
+}
+
+h3 {
+    font-weight:600 ;
+}
+
+h6 {
+    color: grey;
+}
+
+/*Formacion Academica*/
+.seccion-tres{
+    color: white;
+    background-image: url(fondo2.png);
+}
+
+.desalineado {
+    text-align: end;
+}
+
