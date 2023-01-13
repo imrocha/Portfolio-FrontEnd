@@ -1,0 +1,25 @@
+#contenedor{
+    height: 100vh;
+}
+
+#general{
+    color: white;    
+    background-color: black;
+    height: 100vh;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+#margen {
+    margin-left: 10vw;
+}
+
+#foto {
+    justify-content: center;
+    width:50%;
+    height:50%;
+    border-radius: 100%;
+}
+
+

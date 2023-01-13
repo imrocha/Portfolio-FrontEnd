@@ -1,0 +1,24 @@
+nav{
+    font-size: 70% ;
+}
+
+#contenedor{
+    color: white;    
+    background-color: black;
+    width: auto;
+}
+
+#ladoizquierdo{
+    display: flex;
+    align-items: center;
+}
+#items{
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+}
+
+#ladoderecho{
+    display: flex;
+    align-items: center;
+}
